@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.navbar {
+    background-color: #321;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
