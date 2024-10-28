@@ -3,7 +3,7 @@ import './NavBar.css';
 
 export default function NavBar() {
     return (
-        <nav className='navbar'>
+        <nav className='nav-bar'>
             <a className='nav-icon' href='/'><img src={logo} alt='Fuark Zone Logo' /></a>
             <ul>
                 <li className='nav-text'>About</li>
