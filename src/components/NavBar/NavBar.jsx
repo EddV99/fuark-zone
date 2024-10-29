@@ -6,8 +6,8 @@ export default function NavBar() {
         <nav className='nav-bar'>
             <a className='nav-icon' href='/'><img src={logo} alt='Fuark Zone Logo' /></a>
             <ul>
-                <li className='nav-text'>About</li>
-                <li className='nav-text'>Contact</li>
+                <a href='/'><li className='nav-text'>About  </li></a>
+                <a href='/'><li className='nav-text'>Contact</li></a>
             </ul>
         </nav>
     );

@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.game-display {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.game-canvas {
+    border: solid 1px #000000;
+    width: 100%; 
+    height: auto;
+}

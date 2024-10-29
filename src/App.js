@@ -1,5 +1,7 @@
-import NavBar from "./components/NavBar/NavBar";
 import './App.css'
+
+import NavBar from "./components/NavBar/NavBar";
+import GameDisplay from "./components/GameDisplay/GameDisplay";
 
 function App() {
     return (
@@ -8,6 +10,7 @@ function App() {
                 <NavBar />
             </header>
             <body>
+                <GameDisplay />
             </body>
         </div>
     );

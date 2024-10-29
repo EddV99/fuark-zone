@@ -1,3 +1,9 @@
 * {
     background-color: #777777;
 }
+
+.App > body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
