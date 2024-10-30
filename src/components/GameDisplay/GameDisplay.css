@@ -2,7 +2,6 @@
     box-sizing: border-box;
 }
 
-
 .game-display {
     display: flex;
     flex-direction: column;

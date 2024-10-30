@@ -7,3 +7,15 @@
     flex-direction: column;
     justify-content: center;
 }
+
+.App > body > div{
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+}
+.App > body > div.game-display {
+    width: 1000px;
+}
+
+
+

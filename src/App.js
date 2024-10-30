@@ -10,7 +10,7 @@ function App() {
                 <NavBar />
             </header>
             <body>
-                <GameDisplay />
+                <GameDisplay className='game-display' />
             </body>
         </div>
     );
